@@ -1,20 +1,6 @@
 # TiledMapBuilder v0.9.5
 
-A Tiled map (http://mapeditor.org) importer for Crafty.js (http://craftyjs.com)
-
-###The main features:
-- Draw orthogonal map (see [orthogonal1](http://kibo.github.com/TiledMapBuilder/examples/OrthogonalEasterIsland/index.html), [orthogonal2](http://kibo.github.com/TiledMapBuilder/examples/OrthogonalSea/index.html)).
-- Draw isometric diamond map (see [diamond](http://kibo.github.com/TiledMapBuilder/examples/IsometricDiamond/index.html))
-- Draw isometric staggered map (see [staggered](http://kibo.github.com/TiledMapBuilder/examples/IsometricStaggered/index.html) )
-
-###Advantage:
-- no depending on the third party library
-- [documented code](https://github.com/Kibo/TiledMapBuilder/blob/master/WebContent/tiledmapbuilder.js)
-- [tested code](https://github.com/Kibo/TiledMapBuilder/blob/master/WebContent/test/tests.html)
-
-###Todo:
-- Lazy loading for player entity.
-- Trasfer Tiled Map editor objects to Crafty.polygon, Crafty.circle.
+A Tiled map (http://mapeditor.org) importer
 
 ###Usage:
 
